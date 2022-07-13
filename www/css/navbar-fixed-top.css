@@ -1,9 +1,0 @@
-body {
-  min-height: 2000px;
-  padding-top: 70px;
-}
-
-.borderless tr td {
-  border: none !important;
-  padding: 8px !important;
-}
